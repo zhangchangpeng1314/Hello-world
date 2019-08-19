@@ -1,2 +1,1 @@
-# Hello-world
-Test repository
+这是我学习github时编辑的第一个文件。
